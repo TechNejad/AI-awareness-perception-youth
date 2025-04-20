@@ -12,7 +12,7 @@ We used survey data (Kaggle, 2023) from Cybernetics students to:
 ## Files
 - `AI_Perception_Colab.ipynb`: Google Colab notebook with full code and visualizations
 - `Final_Report.pdf`: Detailed write-up of our process, analysis, and findings
-- `Presentation.pdf`: Summary slides used in our project presentation
+- `Final_Presentation.pdf`: Summary slides used in our project presentation
 
 ## Insights
 - Students are mostly curious and optimistic about AI
